@@ -14,4 +14,4 @@ The paper details a network that allows autonomous image captioning.
 We use PyTorch and Torchvision to implement the following model architecture.
 Out of convenience, we use the ResNet50 CNN with pretrained weights.
 
-![UNABLE TO FIND MODEL DIAGRAM](images/architecture.png "Model Architecture")
+![UNABLE TO FIND MODEL DIAGRAM](figs/architecture.png "Model Architecture")
